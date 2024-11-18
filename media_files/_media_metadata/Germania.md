@@ -1,4 +1,4 @@
---- 
+---
 
 name: Germania
 media_type: image
@@ -12,4 +12,4 @@ source: Wikipedia
 _path: /media_files/images/Germania-Image.jpg 
 layout: media_description
 
---- 
+---
