@@ -11,8 +11,6 @@ The following is sample text to show the capabilities of presenting text with va
 
 {% assign media = site.media_metadata | where_exp: "item", "item.name == 'Germania'" %}
 {% include media.html pages=media %}
-{% assign media = site.media_metadata | where_exp: “item”, “item.name == 'Germania'" %}
-{% include media.html pages=media %}
 
 lucas
 Voilà! Вуаля! שלום עולם! Ça va?
