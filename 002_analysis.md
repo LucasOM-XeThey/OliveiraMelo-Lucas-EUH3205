@@ -50,10 +50,9 @@ Nevertheless, there were obstacles such as the Karlsbad Decrees and Metternichâ€
 Despite these challenges, however, German nationalism continued to persevere and so did the wish of many Germans to unify. 
 Thus, the Napoleonic Wars and its consequences were able to successfully set the German states on the path to unification later in the nineteenth century.
 
+## Primary Source: Napoleonic Era
 
-# Embedding a Single Image
-
-{% assign media = site.media_metadata | where_exp: "item", "item.name == 'PrussianInfantryHohenfriedberg'" %}
+{% assign media = site.media_metadata | where_exp: "item", "item.name == 'ThinkersClub'" %}
 {% include media.html pages=media %}
 
 # Embedding a Single Video
