@@ -56,6 +56,22 @@ Thus, the Napoleonic Wars and its consequences were able to successfully set the
 {% assign media = site.media_metadata | where_exp: "item", "item.name == 'ThinkersClub'" %}
 {% include media.html pages=media %}
 
+# Analysis: Austro-Prussian War
+
+insert Chris analysis here
+
+## Primary Source: Austro-Prussian War
+
+insert Chris Image here
+
+# Analysis: Franco-Prussian War
+
+insert Joseph analysis here
+
+## Primary Source: Franco-Prussian War
+
+insert Joseph Image here
+
 # Embedding a Single Video
 {% assign media = site.media_metadata | where_exp: "item", "item.name == 'RiseOfPrussia'" %}
 {% include media.html pages=media %}
