@@ -90,4 +90,4 @@ insert Joseph Image here
 [^8]: Miroslav Šedivý, “The Austrian Empire, German Nationalism, and the Rhine Crisis of 1840,” *Austrian History Yearbook* 47 (January 2016): 16.
 [^9]: Winks and Neuberger, *Europe and the Making of Modernity, 1815-1914*, 21.
 [^10]: Winks and Neuberger, *Europe and the Making of Modernity, 1815-1914*, 21.
-[^11]: *The Thinkers Club*, 1819, Political Cartoon, 1819, /* add hyperlink here 
+[^11]: *The Thinkers Club*, 1819, Political Cartoon, 1819, [https://firstamendmentmuseum.org/wp-content/uploads/2021/07/4.-The-Thinkers-Club.jpeg](https://firstamendmentmuseum.org/wp-content/uploads/2021/07/4.-The-Thinkers-Club.jpeg). 
