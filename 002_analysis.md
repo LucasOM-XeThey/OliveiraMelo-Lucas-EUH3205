@@ -39,7 +39,7 @@ He was of the opinion that “the threat of revolution in Germany was a malignan
 Thus, in 1819, he managed to strongarm the Diet of the German Confederation into passing the Karlsbad Decrees. 
 These Decrees censored the press, limited freedom of speech, and allowed the German Confederation to become the closest thing to a police state that it could be in the nineteenth century. [^10]
 Despite the censorship, people still found ways to get their point across. 
-For instance, a political cartoon from 1819 named The Thinkers Club critiqued the Decrees. 
+For instance, a political cartoon from 1819 named The *Thinkers Club* critiqued the Decrees. 
 Depicting a group of gagged German men sitting around a table, the caption says, “The most important question of today’s meeting: how long will Thinking be allowed to us?” [^11] 
 While this is clearly a bleak subject for Germans, this cartoon manages to successfully make its point, clearly hinting at Metternich’s determination to restrict the freedoms of German people without actually naming what it is that the cartoonist is trying to critique. 
 Nevertheless, this cartoon exemplifies the way that Germans refused to be stopped by Metternich’s limitations in their quest for freedom while making a clear jab at the Karlsbad Decrees and their extensive restrictions. 
