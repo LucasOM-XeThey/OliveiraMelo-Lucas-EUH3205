@@ -129,10 +129,6 @@ It also demonstrated Bismarck's strategic brilliance in navigating complex polit
 The implications of the Austro-Prussian War extended beyond German unification, influencing European politics and setting the stage for future conflicts.
 The war underscored the shifting alliances and power dynamics that would continue to shape the continent in the years to come.
 
-## Primary Source: Austro-Prussian War
-
-insert Chris Image here
-
 # Analysis: Franco-Prussian War
 
 insert Joseph analysis here
