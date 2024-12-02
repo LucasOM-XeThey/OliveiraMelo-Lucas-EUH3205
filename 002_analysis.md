@@ -131,7 +131,45 @@ The war underscored the shifting alliances and power dynamics that would continu
 
 # Analysis: Franco-Prussian War
 
-insert Joseph analysis here
+The Franco-Prussian War began on July 19, 1870, and ended on May 10, 1871, resulting in a humiliating loss for France. 
+The political actions of Prussian Chancellor Otto von Bismark primarily instigated the war. 
+This war would be the last of three wars in a little under a decade-long period that the Prussians would fight, with the resulting consequences leading to the creation of the German Empire. 
+In their quest to be the undisputed leader of the German states and premier power in continental Europe, the Prussians made two decisions to provoke France, which directly led to the Franco-Prussian War. 
+The first decision was that Prussia, under the leadership of Otto von Bismark, made “secret maneuverings to place a friendly Hohenzollern prince on the Spanish throne, which the accident of a cipher clerk revealed prematurely.” 
+The second decision was that, once again, Bismarck purposefully leaked diplomatic communication to France to the public. 
+This was called the Ems dispatch, and it was “doctored by Bismarck before public release to make it appear as if a French diplomatic representative had been snubbed.” 
+Prussia made these decisions, calculatedly and purposefully, deliberately provoking France into declaring war on Prussia. 
+
+The Franco-Prussian War was the culmination of the wars used by Otto von Bismarck to unite the German states into the German Empire by utilizing anti-French sentiment against a common enemy and showing Prussian military prowess against another major European power.
+Otto von Bismark used the Franco-Prussian War to unite Germany based on a common French enemy. 
+For many years, France had held supremacy in continental Europe and had many of the smaller German states under its thumb; also, France had recently invaded several of the German states and defeated them militarily decades before under Napoleon. 
+The German states and the French had a long history of rivaling and vying for power in mainland Europe. 
+Thus, it was easy for Bismarck to convince other German states to band together to fight the common French foe. 
+Namely, a “war with France generated two main psychological effects for German unity: a rally-around-the-flag effect against a common external foe, and the increased salience of the new Prussian-sponsored German identity in light of its heightened interstate prestige.” 
+This effect had a special impact on the Southern German states, which played into the Prussians’ hands as they wished the Southern German states to join their confederation. 
+The Southern Germans were swept with nationalist fervor, and its people forced their governments to mobilize and join the war with the Prussians against the French. 
+Southern German troops fought just as eagerly throughout the war as their Northern counterparts, indicating a Pan-German identity. 
+Prussia used the war to cement a German identity by focusing on a feature many German states had: a disdain for France. 
+
+Prussia's military success against the French Empire showed the rest of the German states that Prussia had the premier military in Europe and that they should unite with this burgeoning Great Power. 
+The scale of victory that the Prussian-led alliance had over France was essential in uniting Germany and showing that it was the chief power in continental Europe and that the other German states should unify with it. 
+The Prussians were masters in military organization and had an excellent general staff, which could not be compared to the French. 
+In the battles of the Franco-Prussian War, Prussian tactics reigned supreme. 
+The Prussians had better tactics in infantry, artillery, and cavalry. 
+Even though the French had more advanced military technology, such as a more accurate and faster shooting service rifle and an early version of the machine gun, they were still decisively defeated. 
+The operational and tactical doctrine of the Prussian military leadership allowed them to beat a technologically superior enemy. 
+Also, a successful war with France was necessary to convince the Southern German states to join Prussia. 
+Without a war with a decisive victory against France, the prospect of Wurtemberg and Bavaria joining Prussia would have been extremely unlikely. 
+Wurtemberg and Bavaria did not want the “overwhelming ascendancy” of the Prussian crown. 
+They also did not wish for “Prussian militarism” to pervade their societies and would have demanded “concessions” that these factors be left out. 
+However, Bismark would have never allowed these concessions under normal circumstances. 
+Bavaria and Wurtemberg only received these concessions because Prussia required these two states in its war against France and thus joined with Prussia to create the German Empire. 
+Prussia’s significant victories throughout the war convinced Prussia’s Southern German allies to unite to form the German Empire. 
+
+In conclusion, the Franco-Prussian War was the culminating war used by Otto von Bismarck to unite the German States into the German Empire by utilizing anti-French sentiment to unite against a common enemy and by showing Prussian military prowess against another major European power. 
+The impact of the Franco-Prussian War was that it was the last and most important of the three wars Prussia had fought in the past decade to solidify its position as the most powerful state in mainland Europe and to show the other German states that it should be its leader. 
+Before the war was formally over, the German Empire was declared. 
+In 1871, Germany became unified under the Prussian King Wilhelm I, who was declared the German Emperor in the Hall of Mirrors in Versailles.
 
 ## Primary Source: Franco-Prussian War
 
@@ -140,10 +178,6 @@ insert Joseph Image here
 # Embedding a Single Video
 {% assign media = site.media_metadata | where_exp: "item", "item.name == 'RiseOfPrussia'" %}
 {% include media.html pages=media %}
-
-# Linking to a PDF File
-
-[Download PDF file]({{ site.baseurl }}/media_files/pdfs/newspaper1942.pdf)
 
 [^1]: Martin Rink, “The German Wars of Liberation 1807-1815: The Restrained Insurgency,” *Small Wars & Insurgencies* 25, no. 4 (July 2014): 834.
 [^2]: Hans A. Schmitt, “Germany without Prussia: A Closer Look at the Confederation of the Rhine,” *German Studies Review* 6, no. 1 (February 1983): 11-12.
