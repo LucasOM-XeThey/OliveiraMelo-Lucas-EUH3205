@@ -25,4 +25,4 @@ Conclusively, the most important aspect of the unification of the German Empire 
 [^1]: "Constitution of the German Empire", *Bundes-Gesetzblatt des Deutschen Bundes*, No. 16, April 20, 1871, p. 63.
 [^2]: William, Wolf von Schierbrand, and A. Oskar Klaussmann. *The Kaiser’s speeches, forming a character portrait of emperor William II*. Wentworth Press, 2016.
 [^3]: Conrad, Sebastian. *German colonialism: A short history*. Cambridge: Cambridge University Press, 2012.
-[^4}: Schulze, Hagen, and Deborah Lucas Schneider. *Germany: A new history*. Cambridge, Mass: Harvard University Press, 2001.
+[^4]: Schulze, Hagen, and Deborah Lucas Schneider. *Germany: A new history*. Cambridge, Mass: Harvard University Press, 2001.
