@@ -6,6 +6,8 @@ number: 2
 
 # Analysis: Napoleonic Era
 
+## By Chloe Pfeiffer
+
 The Napoleonic Wars and the era that followed were the first conflicts to reorganize the German states and prepare them for unification in the latter half of the nineteenth century. 
 Lasting nearly nine years, the Napoleonic conflicts in the German states rearranged both the states’ legal systems and their physical borders. 
 This overhaul of the states during the war paved the way for the development of German nationalism as well as the desire for the unification of the German states into one nation. 
@@ -58,7 +60,7 @@ Thus, the Napoleonic Wars and its consequences were able to successfully set the
 
 # Analysis: Austro-Prussian War
 
-## By Chris 
+## By Chris Rayon
 
 The Austro-Prussian War, also known as the "Brother's War," was a pivotal conflict fought from June 14 to July 22, 1866, between Prussia and Austria, two major powers within the German-speaking world. 
 Though brief, this war profoundly shaped the political landscape of Germany and Europe. 
@@ -121,6 +123,8 @@ The war underscored the shifting alliances and power dynamics that would continu
 
 # Analysis: Franco-Prussian War
 
+## By Joseph Coates 
+
 The Franco-Prussian War began on July 19, 1870, and ended on May 10, 1871, resulting in a humiliating loss for France. 
 The political actions of Prussian Chancellor Otto von Bismark primarily instigated the war. 
 This war would be the last of three wars in a little under a decade-long period that the Prussians would fight, with the resulting consequences leading to the creation of the German Empire. 
@@ -164,10 +168,6 @@ In 1871, Germany became unified under the Prussian King Wilhelm I, who was decla
 ## Primary Source: Franco-Prussian War
 
 insert Joseph Image here
-
-# Embedding a Single Video
-{% assign media = site.media_metadata | where_exp: "item", "item.name == 'RiseOfPrussia'" %}
-{% include media.html pages=media %}
 
 [^1]: Martin Rink, “The German Wars of Liberation 1807-1815: The Restrained Insurgency,” *Small Wars & Insurgencies* 25, no. 4 (July 2014): 834.
 [^2]: Hans A. Schmitt, “Germany without Prussia: A Closer Look at the Confederation of the Rhine,” *German Studies Review* 6, no. 1 (February 1983): 11-12.
