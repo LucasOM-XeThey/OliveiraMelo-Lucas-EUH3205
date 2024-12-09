@@ -36,18 +36,18 @@ Nevertheless, the rise of nationalism was becoming a concern for rulers such as 
 In the aftermath of the Congress of Vienna, nationalism was on the rise throughout Europe and Germans began to call for the unification of the Confederation. 
 As German nationalists became more vocal about their wish to unify, Metternich resolutely suppressed any and all resistance. 
 He was of the opinion that “the threat of revolution in Germany was a malignant cancer,” and did everything he could to prevent rebellions from erupting in the Confederation. [^9]
-Thus, in 1819, he managed to strongarm the Diet of the German Confederation into passing the Karlsbad Decrees. 
+Thus, in 1819, he managed to strongarm the Diet of the German Confederation into passing the Carlsbad Decrees. 
 These Decrees censored the press, limited freedom of speech, and allowed the German Confederation to become the closest thing to a police state that it could be in the nineteenth century. [^10]
 Despite the censorship, people still found ways to get their point across. 
 For instance, a political cartoon from 1819 named The *Thinkers Club* critiqued the Decrees. 
 Depicting a group of gagged German men sitting around a table, the caption says, “The most important question of today’s meeting: how long will Thinking be allowed to us?” [^11] 
 While this is clearly a bleak subject for Germans, this cartoon manages to successfully make its point, clearly hinting at Metternich’s determination to restrict the freedoms of German people without actually naming what it is that the cartoonist is trying to critique. 
-Nevertheless, this cartoon exemplifies the way that Germans refused to be stopped by Metternich’s limitations in their quest for freedom while making a clear jab at the Karlsbad Decrees and their extensive restrictions. 
+Nevertheless, this cartoon exemplifies the way that Germans refused to be stopped by Metternich’s limitations in their quest for freedom while making a clear jab at the Carlsbad Decrees and their extensive restrictions. 
 This determination carried over to the attempts at revolutions in the 1830s as well as in 1848. 
 While these nationalistically driven events did not succeed in unifying Germany, they managed to set the stage for unification later in the century.
 
 The rise of nationalism during the French occupation of the German states as well as the desire for unification that came out of the Congress of Vienna were instrumental in preparing the German Confederation for the next steps in the process of unifying the German states. 
-Nevertheless, there were obstacles such as the Karlsbad Decrees and Metternich’s ruthless suppression of anything that did not support absolute monarchies. 
+Nevertheless, there were obstacles such as the Carlsbad Decrees and Metternich’s ruthless suppression of anything that did not support absolute monarchies. 
 Despite these challenges, however, German nationalism continued to persevere and so did the wish of many Germans to unify. 
 Thus, the Napoleonic Wars and its consequences were able to successfully set the German states on the path to unification later in the nineteenth century.
 
