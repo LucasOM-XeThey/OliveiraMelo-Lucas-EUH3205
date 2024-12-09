@@ -17,6 +17,8 @@ The core reason for these resulting tensions would be through the colonial expan
 Much of this was embraced in part to the new empire embracing imperialism and prestige hand in hand with its direct methods of colonization to elevate the status of Germany as a global power asserting its rights to various territories across the world. [^4]
 Conclusively, the most important aspect of the unification of the German Empire was political shifts towards an authoritarian constitution and national parliament that would send ripples across all of Europe to directly bring about political polarizations and the rise of socialists leading to tension with conservative and liberal forces that would manifest in the early 20th century setting the stage for it’s collapse after World War I.
 
+## Conclusion Primary Source
+
 {% assign media = site.media_metadata | where_exp: "item", "item.name == 'How-is-this-for-high'" %}
 {% include media.html pages=media %}
 
