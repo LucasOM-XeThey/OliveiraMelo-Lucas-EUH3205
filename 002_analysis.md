@@ -59,71 +59,55 @@ Thus, the Napoleonic Wars and its consequences were able to successfully set the
 # Analysis: Austro-Prussian War
 
 The Austro-Prussian War, also known as the "Brother's War," was a pivotal conflict fought from June 14 to July 22, 1866, between Prussia and Austria, two major powers within the German-speaking world. 
-Though brief, this war had profound and lasting effects on the political landscape of Germany and Europe, serving as a crucial step towards the unification of Germany under Prussian leadership and reshaping the balance of power in the region.
+Though brief, this war profoundly shaped the political landscape of Germany and Europe. 
+It marked a crucial step towards German unification under Prussian leadership while redefining the balance of power in the region.
 
-The roots of the Austro-Prussian War trace back to the intricate and often contentious history of the Holy Roman Empire. [^12] 
-Since its formation in the year 800 by Charlemagne the Great, the Holy Roman Empire was a patchwork of German states dominated by the Habsburg dynasty of Austria.[^13] 
-From the 1500s onwards, Austria wielded significant power and influence within the German territories. 
-However, the rise of Prussia, which began as an electorate in 1618, gradually challenged Austria's dominance. 
-By the 18th century, under the leadership of Frederick William I [^14] and his son Frederick II (Frederick the Great), [^15] Prussia had emerged as one of Europe’s foremost military powers, rivaling Austria, Russia, and France. [^16]
+The roots of the Austro-Prussian War trace back to the intricate and often contentious history of the Holy Roman Empire. [^12]
+Established in 800 by Charlemagne the Great, the Holy Roman Empire was a fragmented collection of German states dominated by the Austrian Habsburg dynasty. [^13] 
+By the 16th century, Austria wielded significant influence over the German-speaking world, positioning itself as the leader of the empire. 
+However, the emergence of Prussia as a competing power eventually disrupted this balance. 
+By the 18th century, under the leadership of Frederick William I [^14] and his son Frederick II (Frederick the Great) [^15], Prussia had emerged as one of Europe’s foremost military powers, rivaling Austria, Russia, and France.[^16]
 
 The end of the Napoleonic Wars in 1815 was significant as the Holy Roman Empire collapsed under Napoleon, leading to the creation of the Confederation of the Rhine. [^17] 
 This new confederation fostered a sense of unity among the German states under French control, planting the seeds for German unification. 
 Following Napoleon's defeat and the establishment of the German Confederation, the stage was set for the German Question: whether the multitude of German states should unify, and if so, under which power—Austria or Prussia? 
 This rivalry intensified as both nations sought to expand their influence and control over the German Confederation, a loose association of 39 German states established by the Congress of Vienna. [^18]
 
-In the decades from 1815 to 1866 leading up to the Austro-Prussian War, Austria and Prussia pursued competing strategies to bolster their power within the Confederation. 
+In the decades leading up to the Austro-Prussian War, Austria and Prussia pursued competing strategies to bolster their power within the Confederation. 
 Austria, the traditional leader of the German states, struggled with economic stagnation and political fragmentation. 
 Meanwhile, Prussia experienced rapid industrial growth, economic modernization, and substantial military reforms under the leadership of King Wilhelm I [^19] and his ambitious Minister-President, Otto von Bismarck. 
 The differing approaches stemmed from Austria's reliance on its historical dominance and large multinational empire, while Prussia focused on modernizing its economy and military to assert its influence.
 
 Recognizing that a confrontation with Austria was inevitable if Prussia was to dominate Germany, Bismarck navigated the diplomatic landscape with skill, working to diplomatically isolate Austria while securing Prussia’s support among other German states. 
-His embrace of Realpolitik—an approach focused on practical objectives rather than ideological principles—set the stage for the conflict. 
-For example, Bismarck formed strategic alliances with Italy and secured neutrality agreements with Russia and France, effectively isolating Austria.[^20]
+His embrace of Realpolitik — an approach focused on practical objectives rather than ideological principles — set the stage for the conflict. 
+For example, Bismarck formed strategic alliances with Italy and secured neutrality agreements with Russia and France, effectively isolating Austria. [^20]
 
 One of Bismarck’s earliest and most strategic moves was the occupation of Schleswig-Holstein, two duchies in the Danish realm but with substantial German populations. 
 Following the Second Schleswig War with Denmark in 1864, which ended in a German Confederation victory, Prussia and Austria jointly administered these duchies, with Schleswig under Prussian control and Holstein under Austrian control. 
 This arrangement, however, quickly became a source of contention, as Bismarck anticipated. 
-In 1866, he accused Austria of violating the terms of their agreement by proposing to bring the issue before the German Diet for a resolution. [^21] 
+In 1866, he accused Austria of violating the terms of their agreement by proposing to bring the issue before the German Diet for a resolution. [^21]
 In response, Bismarck moved Prussian troops into Holstein, escalating tensions. 
 Austria, in turn, mobilized the forces of the German Confederation against Prussia, igniting the Austro-Prussian War and fracturing the Confederation itself.
 
-Various states, religious factions, cultural ideologies, and families aligned with either Austria or Prussia based on their interests and historical ties.
-Austria was supported by Bavaria, Saxony, Hanover, Württemberg, Hesse-Kassel, Baden, Hesse-Darmstadt, Nassau, and several smaller German states. 
-Prussia, on the other hand, was supported by Saxe-Lauenburg, Mecklenburg-Schwerin, Brunswick, Saxe-Coburg & Gotha, Saxe-Altenburg, Mecklenburg-Strelitz, Oldenburg, Anhalt, Schwarzburg, Lippe, Lübeck, Bremen, Hamburg, and Italy. 
-Many of the states that sided with Austria were predominantly Catholic, such as Bavaria and Württemberg, while Prussia, being predominantly Protestant, attracted support from other Protestant states. 
-Prussia's push for a "Kleindeutschland" (a smaller German state excluding Austria) resonated with states that favored a unified Germany under Prussian leadership, while Austria's vision of a "Grossdeutschland" (a larger German state including Austria) attracted states that preferred a multi-national empire. [^22]
+Various German states aligned with Austria or Prussia based on historical, religious, and political factors. 
+Predominantly Catholic states like Bavaria, Saxony, and Württemberg supported Austria, while Protestant states, including Mecklenburg and Hanover, sided with Prussia. 
+Italy joined Prussia in the conflict, aiming to annex Austria-held Venetia. 
+Prussia's push for a *"Kleindeutschland"* (a smaller German state excluding Austria) resonated with states that favored a unified Germany under Prussian leadership, while Austria's vision of a *"Grossdeutschland"* (a larger German state including Austria) attracted states that preferred a multi-national empire. [^22]
 
-The Habsburg Dynasty led Austria, a powerful and influential family that had ruled over the Holy Roman Empire and the Austrian Empire for centuries. 
-Prussia was ruled by the Hohenzollerns, who were keen on expanding their influence and unifying Germany under their leadership. 
-Internationally, Italy allied with Prussia as it sought to gain Venetia from Austria. 
-Russia remained neutral, with its neutrality secured by Bismarck through diplomatic negotiations. 
-France also remained neutral, but Bismarck's diplomacy ensured that France did not intervene on Austria's side.
-
-The Austro-Prussian War was notable for the advanced technology and modern tactics used by the Prussian forces. [^23]
-At the war's outset, many of the major German states, such as Bavaria, Saxony, Hanover, and Württemberg, sided with Austria due to their traditional alliances and shared Catholic faith, giving Austria numerical superiority over Prussia. [^24]
-However, Prussia’s military advantage lay in its technological innovations, strategic leadership, and new combat tactics.
-
-The Prussian army, commanded by General Helmuth von Moltke, made effective use of railways for rapid troop deployment and wielded the Dreyse needle gun, [^25] a breech-loading rifle that provided a substantial rate-of-fire advantage over the Austrian muzzle-loading rifles. [^26] 
+The Prussian army, commanded by General Helmuth von Moltke, made effective use of railways for rapid troop deployment and wielded the Dreyse needle gun[14], a breech-loading rifle that provided a substantial rate-of-fire advantage over the Austrian muzzle-loading rifles. [^23]
 The Prussian army also had a well-organized General Staff, which coordinated their campaigns efficiently. 
-These innovations contributed to the decisive Prussian victory at the Battle of Königgrätz on July 3, 1866. 
-This battle, located in Bohemia (now the Czech Republic), saw around 285,000 Prussian troops decisively defeat 215,000 Austrian soldiers, resulting in approximately 44,000 Austrian casualties compared to 9,000 Prussian casualties. 
-The Prussian artillery and efficient use of railroads were key to this victory. [^27]
+These innovations contributed to the decisive Prussian victory at the Battle of Königgrätz on July 3, 1866.
+This battle, located in Bohemia (modern-day Czechia), saw around 285,000 Prussian troops decisively defeat 215,000 Austrian soldiers, resulting in approximately 44,000 Austrian casualties compared to 9,000 Prussian casualties. 
+The Prussian artillery and efficient use of railroads were key to this victory. [^24]
 
-Securing a favorable peace, however, presented a challenge for Bismarck. 
-Although he sought to neutralize Austria as a rival, he still valued Austria as a potential ally for future endeavors, particularly in case of future conflicts with France or Russia. 
-This pragmatism clashed with King Wilhelm I’s view, which favored territorial gains in Austria as a mark of victory. 
-The two leaders engaged in a heated debate, with Bismarck at one point threatening to resign if the king did not agree to his vision for peace.
-Ultimately, King Wilhelm relented, allowing Bismarck to negotiate a treaty that would reshape German politics without humiliating Austria.
-
-The war formally concluded with the Treaty of Prague on August 23, 1866. [^28] 
+The war formally concluded with the Treaty of Prague on August 23, 1866. [^25]
 The signatories included representatives from both Austria and Prussia. 
-The terms of the treaty dissolved the German Confederation and sanctioned the formation of the North German Confederation, led by Prussia, which excluded Austria from German affairs. 
-This outcome laid the foundation for Germany’s unification under Prussian leadership. [^29] 
-Established in 1867, the North German Confederation included the states north of the Main River and served as a precursor to the German Empire, which would be proclaimed in 1871 following the Franco-Prussian War.
+The terms of the treaty dissolved the German Confederation and sanctioned the formation of the North German Confederation, led by Prussia. 
+This outcome laid the foundation for Germany’s unification under Prussian leadership. [^26] 
+Established in 1867, the North German Confederation served as a precursor to the German Empire, which would be proclaimed in 1871 following the Franco-Prussian War.
 
-In conclusion, The Austro-Prussian War was a turning point in European history, marking the decline of Austrian influence over the German states and the rise of Prussia as the dominant force in a unified Germany. 
-Through this victory, Bismarck not only achieved his vision of German unification but also irrevocably altered the balance of power in Europe. 
+In conclusion, the Austro-Prussian War was a critical moment in 19th-century European history, marking the end of Austrian influence in Germany and paved the way for Prussia to complete its influence. 
+Through this victory, Bismarck not only achieved his vision of German unification but also irrevocably altered the balance of power in Europe.
 The war highlighted the effectiveness of modern military strategies and the importance of technological advancements in warfare.
 It also demonstrated Bismarck's strategic brilliance in navigating complex political landscapes and securing favorable outcomes for Prussia.
 The implications of the Austro-Prussian War extended beyond German unification, influencing European politics and setting the stage for future conflicts.
@@ -138,17 +122,17 @@ In their quest to be the undisputed leader of the German states and premier powe
 The first decision was that Prussia, under the leadership of Otto von Bismark, made “secret maneuverings to place a friendly Hohenzollern prince on the Spanish throne, which the accident of a cipher clerk revealed prematurely.” 
 The second decision was that, once again, Bismarck purposefully leaked diplomatic communication to France to the public. 
 This was called the Ems dispatch, and it was “doctored by Bismarck before public release to make it appear as if a French diplomatic representative had been snubbed.” 
-Prussia made these decisions, calculatedly and purposefully, deliberately provoking France into declaring war on Prussia. 
-
+Prussia made these decisions, calculatedly and purposefully, deliberately provoking France into declaring war on Prussia. [^27]
 The Franco-Prussian War was the culmination of the wars used by Otto von Bismarck to unite the German states into the German Empire by utilizing anti-French sentiment against a common enemy and showing Prussian military prowess against another major European power.
+
 Otto von Bismark used the Franco-Prussian War to unite Germany based on a common French enemy. 
 For many years, France had held supremacy in continental Europe and had many of the smaller German states under its thumb; also, France had recently invaded several of the German states and defeated them militarily decades before under Napoleon. 
 The German states and the French had a long history of rivaling and vying for power in mainland Europe. 
 Thus, it was easy for Bismarck to convince other German states to band together to fight the common French foe. 
-Namely, a “war with France generated two main psychological effects for German unity: a rally-around-the-flag effect against a common external foe, and the increased salience of the new Prussian-sponsored German identity in light of its heightened interstate prestige.” 
+Namely, a “war with France generated two main psychological effects for German unity: a rally-around-the-flag effect against a common external foe, and the increased salience of the new Prussian-sponsored German identity in light of its heightened interstate prestige.” [^28]
 This effect had a special impact on the Southern German states, which played into the Prussians’ hands as they wished the Southern German states to join their confederation. 
 The Southern Germans were swept with nationalist fervor, and its people forced their governments to mobilize and join the war with the Prussians against the French. 
-Southern German troops fought just as eagerly throughout the war as their Northern counterparts, indicating a Pan-German identity. 
+Southern German troops fought just as eagerly throughout the war as their Northern counterparts, indicating a Pan-German identity. [^29]
 Prussia used the war to cement a German identity by focusing on a feature many German states had: a disdain for France. 
 
 Prussia's military success against the French Empire showed the rest of the German states that Prussia had the premier military in Europe and that they should unite with this burgeoning Great Power. 
@@ -157,19 +141,19 @@ The Prussians were masters in military organization and had an excellent general
 In the battles of the Franco-Prussian War, Prussian tactics reigned supreme. 
 The Prussians had better tactics in infantry, artillery, and cavalry. 
 Even though the French had more advanced military technology, such as a more accurate and faster shooting service rifle and an early version of the machine gun, they were still decisively defeated. 
-The operational and tactical doctrine of the Prussian military leadership allowed them to beat a technologically superior enemy. 
+The operational and tactical doctrine of the Prussian military leadership allowed them to beat a technologically superior enemy. [^30]
 Also, a successful war with France was necessary to convince the Southern German states to join Prussia. 
 Without a war with a decisive victory against France, the prospect of Wurtemberg and Bavaria joining Prussia would have been extremely unlikely. 
 Wurtemberg and Bavaria did not want the “overwhelming ascendancy” of the Prussian crown. 
 They also did not wish for “Prussian militarism” to pervade their societies and would have demanded “concessions” that these factors be left out. 
 However, Bismark would have never allowed these concessions under normal circumstances. 
-Bavaria and Wurtemberg only received these concessions because Prussia required these two states in its war against France and thus joined with Prussia to create the German Empire. 
+Bavaria and Wurtemberg only received these concessions because Prussia required these two states in its war against France and thus joined with Prussia to create the German Empire. [^31]
 Prussia’s significant victories throughout the war convinced Prussia’s Southern German allies to unite to form the German Empire. 
 
 In conclusion, the Franco-Prussian War was the culminating war used by Otto von Bismarck to unite the German States into the German Empire by utilizing anti-French sentiment to unite against a common enemy and by showing Prussian military prowess against another major European power. 
 The impact of the Franco-Prussian War was that it was the last and most important of the three wars Prussia had fought in the past decade to solidify its position as the most powerful state in mainland Europe and to show the other German states that it should be its leader. 
 Before the war was formally over, the German Empire was declared. 
-In 1871, Germany became unified under the Prussian King Wilhelm I, who was declared the German Emperor in the Hall of Mirrors in Versailles.
+In 1871, Germany became unified under the Prussian King Wilhelm I, who was declared the German Emperor in the Hall of Mirrors in Versailles. [^32]
 
 ## Primary Source: Franco-Prussian War
 
@@ -208,3 +192,10 @@ insert Joseph Image here
 [^27]: Wehrtechnik Museum. “Bleihemdgranaten.” Accessed November 23, 2024. [https://www.wehrtechnikmuseum.de/Exponate/Bleihemdgranaten/bleihemdgranaten.html](https://www.wehrtechnikmuseum.de/Exponate/Bleihemdgranaten/bleihemdgranaten.html).
 [^28]: U.S. Department of State. “Treaty of Prague.” Accessed November 23, 2024. [https://history.state.gov/historicaldocuments/frus1867p1/pg_579](https://history.state.gov/historicaldocuments/frus1867p1/pg_579).
 [^29]: DocumentArchiv.de. “Verfassung des Norddeutschen Bundes vom 16. April 1867.” Accessed November 23, 2024. [http://www.documentarchiv.de/nzjh/ndbd/verfndbd.html](http://www.documentarchiv.de/nzjh/ndbd/verfndbd.html).
+
+[^27]: Todd H. Hall, “On provocation: Outrage, International Relations, and the Franco–Prussian War.” *Security Studies* 26, no. 1 (2016): 1-29. 
+[^28]: Nicholas Sambanis, Stergios Skaperdas, and William C. Wohlforth, “Nation-Building through War,” *American Political Science Review* 109, no. 2 (2015): 291.
+[^29]: William Carr and Harry Hearder. *The Origins of the Wars of German Unification*. First edition. Boca Raton, FL: Routledge, (2014): 206-207.
+[^30]: Geoffrey Wawro, *The Franco-Prussian War: The German Conquest of France in 1870-1871*, (Cambridge: Cambridge University Press, 2003): 48-53.
+[^31]: Erich Eyck, *Bismarck and the German Empire*. (New York: W. W. Norton, 1964): 173.
+[^32]: Erich Eyck, *Bismarck and the German Empire*. (New York: W. W. Norton, 1964): 182.
