@@ -58,6 +58,8 @@ Thus, the Napoleonic Wars and its consequences were able to successfully set the
 
 # Analysis: Austro-Prussian War
 
+## By Chris 
+
 The Austro-Prussian War, also known as the "Brother's War," was a pivotal conflict fought from June 14 to July 22, 1866, between Prussia and Austria, two major powers within the German-speaking world. 
 Though brief, this war profoundly shaped the political landscape of Germany and Europe. 
 It marked a crucial step towards German unification under Prussian leadership while redefining the balance of power in the region.
@@ -94,16 +96,20 @@ Predominantly Catholic states like Bavaria, Saxony, and Württemberg supported A
 Italy joined Prussia in the conflict, aiming to annex Austria-held Venetia. 
 Prussia's push for a *"Kleindeutschland"* (a smaller German state excluding Austria) resonated with states that favored a unified Germany under Prussian leadership, while Austria's vision of a *"Grossdeutschland"* (a larger German state including Austria) attracted states that preferred a multi-national empire. [^22]
 
-The Prussian army, commanded by General Helmuth von Moltke, made effective use of railways for rapid troop deployment and wielded the Dreyse needle gun[14], a breech-loading rifle that provided a substantial rate-of-fire advantage over the Austrian muzzle-loading rifles. [^23]
+The war was marked by significant advancements in military technology and tactics, which heavily favored Prussia. [^23] 
+At the war's outset, many of the major German states, such as Bavaria, Saxony, Hanover, and Württemberg, sided with Austria due to their traditional alliances and shared Catholic faith, giving Austria numerical superiority over Prussia. [^24] 
+However, Prussia’s military advantage lay in its technological innovations, strategic leadership, and new combat tactics.
+
+The Prussian army, commanded by General Helmuth von Moltke, made effective use of railways for rapid troop deployment and wielded the Dreyse needle gun [^25], a breech-loading rifle that provided a substantial rate-of-fire advantage over the Austrian muzzle-loading rifles. [^26]
 The Prussian army also had a well-organized General Staff, which coordinated their campaigns efficiently. 
 These innovations contributed to the decisive Prussian victory at the Battle of Königgrätz on July 3, 1866.
 This battle, located in Bohemia (modern-day Czechia), saw around 285,000 Prussian troops decisively defeat 215,000 Austrian soldiers, resulting in approximately 44,000 Austrian casualties compared to 9,000 Prussian casualties. 
-The Prussian artillery and efficient use of railroads were key to this victory. [^24]
+The Prussian artillery and efficient use of railroads were key to this victory. [^27]
 
-The war formally concluded with the Treaty of Prague on August 23, 1866. [^25]
+The war formally concluded with the Treaty of Prague on August 23, 1866. [^28]
 The signatories included representatives from both Austria and Prussia. 
 The terms of the treaty dissolved the German Confederation and sanctioned the formation of the North German Confederation, led by Prussia. 
-This outcome laid the foundation for Germany’s unification under Prussian leadership. [^26] 
+This outcome laid the foundation for Germany’s unification under Prussian leadership. [^29] 
 Established in 1867, the North German Confederation served as a precursor to the German Empire, which would be proclaimed in 1871 following the Franco-Prussian War.
 
 In conclusion, the Austro-Prussian War was a critical moment in 19th-century European history, marking the end of Austrian influence in Germany and paved the way for Prussia to complete its influence. 
@@ -122,17 +128,17 @@ In their quest to be the undisputed leader of the German states and premier powe
 The first decision was that Prussia, under the leadership of Otto von Bismark, made “secret maneuverings to place a friendly Hohenzollern prince on the Spanish throne, which the accident of a cipher clerk revealed prematurely.” 
 The second decision was that, once again, Bismarck purposefully leaked diplomatic communication to France to the public. 
 This was called the Ems dispatch, and it was “doctored by Bismarck before public release to make it appear as if a French diplomatic representative had been snubbed.” 
-Prussia made these decisions, calculatedly and purposefully, deliberately provoking France into declaring war on Prussia. [^27]
+Prussia made these decisions, calculatedly and purposefully, deliberately provoking France into declaring war on Prussia. [^30]
 The Franco-Prussian War was the culmination of the wars used by Otto von Bismarck to unite the German states into the German Empire by utilizing anti-French sentiment against a common enemy and showing Prussian military prowess against another major European power.
 
 Otto von Bismark used the Franco-Prussian War to unite Germany based on a common French enemy. 
 For many years, France had held supremacy in continental Europe and had many of the smaller German states under its thumb; also, France had recently invaded several of the German states and defeated them militarily decades before under Napoleon. 
 The German states and the French had a long history of rivaling and vying for power in mainland Europe. 
 Thus, it was easy for Bismarck to convince other German states to band together to fight the common French foe. 
-Namely, a “war with France generated two main psychological effects for German unity: a rally-around-the-flag effect against a common external foe, and the increased salience of the new Prussian-sponsored German identity in light of its heightened interstate prestige.” [^28]
+Namely, a “war with France generated two main psychological effects for German unity: a rally-around-the-flag effect against a common external foe, and the increased salience of the new Prussian-sponsored German identity in light of its heightened interstate prestige.” [^31]
 This effect had a special impact on the Southern German states, which played into the Prussians’ hands as they wished the Southern German states to join their confederation. 
 The Southern Germans were swept with nationalist fervor, and its people forced their governments to mobilize and join the war with the Prussians against the French. 
-Southern German troops fought just as eagerly throughout the war as their Northern counterparts, indicating a Pan-German identity. [^29]
+Southern German troops fought just as eagerly throughout the war as their Northern counterparts, indicating a Pan-German identity. [^32]
 Prussia used the war to cement a German identity by focusing on a feature many German states had: a disdain for France. 
 
 Prussia's military success against the French Empire showed the rest of the German states that Prussia had the premier military in Europe and that they should unite with this burgeoning Great Power. 
@@ -141,19 +147,19 @@ The Prussians were masters in military organization and had an excellent general
 In the battles of the Franco-Prussian War, Prussian tactics reigned supreme. 
 The Prussians had better tactics in infantry, artillery, and cavalry. 
 Even though the French had more advanced military technology, such as a more accurate and faster shooting service rifle and an early version of the machine gun, they were still decisively defeated. 
-The operational and tactical doctrine of the Prussian military leadership allowed them to beat a technologically superior enemy. [^30]
+The operational and tactical doctrine of the Prussian military leadership allowed them to beat a technologically superior enemy. [^33]
 Also, a successful war with France was necessary to convince the Southern German states to join Prussia. 
 Without a war with a decisive victory against France, the prospect of Wurtemberg and Bavaria joining Prussia would have been extremely unlikely. 
 Wurtemberg and Bavaria did not want the “overwhelming ascendancy” of the Prussian crown. 
 They also did not wish for “Prussian militarism” to pervade their societies and would have demanded “concessions” that these factors be left out. 
 However, Bismark would have never allowed these concessions under normal circumstances. 
-Bavaria and Wurtemberg only received these concessions because Prussia required these two states in its war against France and thus joined with Prussia to create the German Empire. [^31]
+Bavaria and Wurtemberg only received these concessions because Prussia required these two states in its war against France and thus joined with Prussia to create the German Empire. [^34]
 Prussia’s significant victories throughout the war convinced Prussia’s Southern German allies to unite to form the German Empire. 
 
 In conclusion, the Franco-Prussian War was the culminating war used by Otto von Bismarck to unite the German States into the German Empire by utilizing anti-French sentiment to unite against a common enemy and by showing Prussian military prowess against another major European power. 
 The impact of the Franco-Prussian War was that it was the last and most important of the three wars Prussia had fought in the past decade to solidify its position as the most powerful state in mainland Europe and to show the other German states that it should be its leader. 
 Before the war was formally over, the German Empire was declared. 
-In 1871, Germany became unified under the Prussian King Wilhelm I, who was declared the German Emperor in the Hall of Mirrors in Versailles. [^32]
+In 1871, Germany became unified under the Prussian King Wilhelm I, who was declared the German Emperor in the Hall of Mirrors in Versailles. [^35]
 
 ## Primary Source: Franco-Prussian War
 
@@ -192,10 +198,9 @@ insert Joseph Image here
 [^27]: Wehrtechnik Museum. “Bleihemdgranaten.” Accessed November 23, 2024. [https://www.wehrtechnikmuseum.de/Exponate/Bleihemdgranaten/bleihemdgranaten.html](https://www.wehrtechnikmuseum.de/Exponate/Bleihemdgranaten/bleihemdgranaten.html).
 [^28]: U.S. Department of State. “Treaty of Prague.” Accessed November 23, 2024. [https://history.state.gov/historicaldocuments/frus1867p1/pg_579](https://history.state.gov/historicaldocuments/frus1867p1/pg_579).
 [^29]: DocumentArchiv.de. “Verfassung des Norddeutschen Bundes vom 16. April 1867.” Accessed November 23, 2024. [http://www.documentarchiv.de/nzjh/ndbd/verfndbd.html](http://www.documentarchiv.de/nzjh/ndbd/verfndbd.html).
-
-[^27]: Todd H. Hall, “On provocation: Outrage, International Relations, and the Franco–Prussian War.” *Security Studies* 26, no. 1 (2016): 1-29. 
-[^28]: Nicholas Sambanis, Stergios Skaperdas, and William C. Wohlforth, “Nation-Building through War,” *American Political Science Review* 109, no. 2 (2015): 291.
-[^29]: William Carr and Harry Hearder. *The Origins of the Wars of German Unification*. First edition. Boca Raton, FL: Routledge, (2014): 206-207.
-[^30]: Geoffrey Wawro, *The Franco-Prussian War: The German Conquest of France in 1870-1871*, (Cambridge: Cambridge University Press, 2003): 48-53.
-[^31]: Erich Eyck, *Bismarck and the German Empire*. (New York: W. W. Norton, 1964): 173.
-[^32]: Erich Eyck, *Bismarck and the German Empire*. (New York: W. W. Norton, 1964): 182.
+[^30]: Todd H. Hall, “On provocation: Outrage, International Relations, and the Franco–Prussian War.” *Security Studies* 26, no. 1 (2016): 1-29. 
+[^31]: Nicholas Sambanis, Stergios Skaperdas, and William C. Wohlforth, “Nation-Building through War,” *American Political Science Review* 109, no. 2 (2015): 291.
+[^32]: William Carr and Harry Hearder. *The Origins of the Wars of German Unification*. First edition. Boca Raton, FL: Routledge, (2014): 206-207.
+[^33]: Geoffrey Wawro, *The Franco-Prussian War: The German Conquest of France in 1870-1871*, (Cambridge: Cambridge University Press, 2003): 48-53.
+[^34]: Erich Eyck, *Bismarck and the German Empire*. (New York: W. W. Norton, 1964): 173.
+[^35]: Erich Eyck, *Bismarck and the German Empire*. (New York: W. W. Norton, 1964): 182.
