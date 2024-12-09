@@ -5,18 +5,38 @@ number: 1
 ---
 # Introduction
 
-This is where you introduce your project to your audience. You should summarize briefly the topic you are working on. (250-350 words)
+## By Lucas Oliveira Melo [Xe/They]
 
-The following is sample text to show the capabilities of presenting text with various formatting (such as bold), different languages, adding footnotes, and images.[^1]
+The Unification of Germany was a decades-long process that consumed German imagination throughout the early to mid-19th century, with profound implications for European Geopolitics, before, during, and after. 
+Such a process was not a gradual one, however, and is instead characterized by massive advances in short bursts. 
+Specifically, this site will show how conflict and political instability were the catalysts for steps towards German unification.
 
-{% assign media = site.media_metadata | where_exp: "item", "item.name == 'Germania'" %}
-{% include media.html pages=media %}
+The region now called Germany has long been characterized by disunity since antiquity. [^1]
+This briefly changed with the Conquests of Charlemagne which unified German lands under the banner of the Franks. [^2]
+Following the dissolution of Francia into Western and Eastern realms, East Francia inherited Charlemagne’s title: “Holy Roman Emperor,” and their realm became the Holy Roman Empire (HRE). [^3]
+The unity provided by the HRE was short-lived, as significant feudalization and decentralization transformed Germany; 
+once again, disunity characterized Germany. [^3]
+An estimate by one historian counts roughly 1800 semi-independent estates at the turn of the 18th century. [^4]
+Once Germany entered the 19th century, the HRE stood no chance against Napoleon.
 
-lucas
-Voilà! Вуаля! שלום עולם! Ça va?
-Ut scelerisque ultrices orci, nec egestas sem. Cras feugiat nulla eget efficitur tempus. Morbi at pulvinar odio. Duis tempus neque in efficitur iaculis. Nullam ornare erat ut elit convallis consectetur. Integer a pulvinar dolor. Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi semper mattis odio ac volutpat. Suspendisse placerat rhoncus ligula, in pretium turpis aliquam nec. Curabitur gravida pretium mauris, in vulputate mauris tristique in. Suspendisse id facilisis sem, et dapibus tortor. Sed nisl metus, commodo ornare tortor non, aliquam suscipit arcu.[^2]
+- insert HRE at Golden Bull here - 
 
-Curabitur sed feugiat elit. Donec feugiat nisi volutpat magna venenatis volutpat. Fusce efficitur sapien dignissim, pretium dolor sit amet, placerat lectus. Quisque enim est, viverra ut sem id, eleifend imperdiet ipsum. Pellentesque imperdiet pretium dui, eu sodales quam iaculis id. Fusce tristique convallis hendrerit. Suspendisse id mauris est. Etiam accumsan nisl vel neque porttitor, nec finibus est vehicula. Aliquam quam sem, rutrum elementum tincidunt non, ultricies a urna. Sed commodo, magna sed dictum malesuada, nulla ligula efficitur nisl, sed condimentum mauris nisl non purus. Sed pulvinar maximus fringilla. Sed scelerisque imperdiet volutpat. Praesent ligula nisl, venenatis finibus pharetra at, luctus id neque. Proin a efficitur ex. Donec vitae enim quis arcu ullamcorper molestie.
+The HRE died early into the 19th century, and its death and reorganization was the first phase in the process of unification through conflict (see: Analysis 1).
+Although reducing Germany from roughly 300 states to 39 is impressive, the next major upheaval in 1848 proved to be just as staggering in scale: the Märzrevolutions saw all 39 German states face new, revolutionary challenges, toppled the conservative views of top-down stability, and forced the Germans to reckon with the specter of nationalism and liberalism as driving forces in the latter-half of the century.
+Although its crowning achievement, the Frankfurt Assembly, an attempt at creating a unified German Government, failed spectacularly, the conservative reckoning brought on by its successes was the step taken. 
+Austria’s desire for stable disunity no longer sufficed, and the hyper-conservative yet pragmatic Prussia took advantage.
+After two major wars with the Austria and France, a united German Empire with a Prussian Kaiser was declared.
 
-[^1]: First example footnote. View other pages to see sample methods of working with Markdown.
-[^2]: I copied this text from this [website](https://www.lipsum.com/feed/html) 
+## Introduction Primary Source
+
+insert Germania Here
+
+[^1]: 
+[^2]: 
+[^3]: 
+[^4]: 
+[^5]: 
+[^6]: 
+[^7]: 
+[^8]: 
+[^9]: 
