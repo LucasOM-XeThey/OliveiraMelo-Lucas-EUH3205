@@ -77,6 +77,8 @@ Wikipedia: [List of States in the HRE](https://en.wikipedia.org/wiki/List_of_sta
 [^14]
 House of Habsburg: [The full timeline and family tree of the von Habsburg line](https://habsburg.org/family-history/extended-family-tree/?lang=en) 
 
+***
+
 [^1]: Chosen By Chloe P
 [^2]: Chosen By Lucas OM
 [^3]: Chosen By Michael G
