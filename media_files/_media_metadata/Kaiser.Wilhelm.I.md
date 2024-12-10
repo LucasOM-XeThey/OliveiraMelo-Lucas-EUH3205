@@ -4,7 +4,7 @@ name: Kaiser Wilhelm I
 media_type: image
 
 _title: Kaiser Wilhelm I
-description: in progress
+description: A Portrait of Kaiser Wilhelm I in 1884, shortly before his death.
 creator: Wilhelm Kuntzemüller 
 _date: 1884
 source: Wikimedia Commons via the Library of Congress
