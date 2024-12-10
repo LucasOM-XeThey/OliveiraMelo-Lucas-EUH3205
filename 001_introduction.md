@@ -44,12 +44,12 @@ Many, however, were simply landed knightly estates that do not fit standard defi
 At its core, the question of how many semi-independent polities within the HRE existed at any given time depends entirely on what one defines as a political polity, and how one defines the cutoff between semi-independent and dependent.
 Most historians agree that, after the 13th century, answering inquiries on the number of political polities in the HRE with "several hundred" is accurate enough; any additional detail is subject to debate. 
 
-[^1]: 
-[^2]: 
-[^3]: 
-[^4]: 
-[^5]: 
-[^6]: 
-[^7]: 
-[^8]: 
-[^9]: 
+[^1]: Peter Heather, *Empires and Barbarians: The Fall of Rome and the Birth of Europe* (Oxford University Press, 2010): ch. 1.
+[^2]: Whaley, Joachim, *The Holy Roman Empire: A Very Short Introduction* (First edition. Oxford: Oxford University Press, 2018): ch. 1.
+[^3]: Whaley, *The Holy Roman Empire*, ch. 1.
+[^4]: Whaley, *The Holy Roman Empire*, ch. 3-4.
+[^5]: Gagliardo, G., Reich and Nation, *The Holy Roman Empire as Idea and Reality, 1763–1806* (Indiana University Press, 1980): p. 12-13.
+[^6]: Whaley, *The Holy Roman Empire*, Epilogue.
+[^7]: Robin W. Winks and Joan Neuberger, *Europe and the Making of Modernity, 1815-1914* (New York, New York: Oxford University Press, 2005): 16.
+[^8]: Winks and Neuberger, *Europe and the Making of Modernity*, pp. 169-172.
+[^9]: Ulrich Sieberer, and Michael Herrmann, “Short-Lived Parliamentarisation in 19th-Century Germany: Parliamentary Government in the Frankfurt Assembly of 1848/1849,” *Parliamentary Affairs 73*, no. 3 (2020): pp. 603–26. [https://doi.org/10.1093/pa/gsz013](https://doi.org/10.1093/pa/gsz013).
