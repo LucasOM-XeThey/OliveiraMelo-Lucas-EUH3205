@@ -146,13 +146,19 @@ The political actions of Prussian Chancellor Otto von Bismark primarily instigat
 This war would be the last of three wars in a little under a decade-long period that the Prussians would fight, with the resulting consequences leading to the creation of the German Empire. 
 In their quest to be the undisputed leader of the German states and premier power in continental Europe, the Prussians made two decisions to provoke France, which directly led to the Franco-Prussian War. 
 The first decision was that Prussia, under the leadership of Otto von Bismark, made “secret maneuverings to place a friendly Hohenzollern prince on the Spanish throne, which the accident of a cipher clerk revealed prematurely.” 
-The second decision was that, once again, Bismarck purposefully leaked diplomatic communication to France to the public. 
+The French became outraged at this revelation as the Hohenzollerns were the same royal family that ruled Prussia. 
+If Prussia placed a Hohenzollern prince on the throne of Spain, Prussia and its allies would surround France. 
+The French protested heavily and sent an emissary to meet with the Prussian King, Wilhelm I, who later pulled his support from the Hohenzollern prince’s candidacy to de-escalate the situation. 
+Nevertheless, the French diplomat continued to press the issue of the Hohenzollern family’s claim to the Spanish throne and requested Wilhelm I withdraw the claim for perpetuity. 
+Wilhelm I, politely declined this request. 
+Yet, this led Bismarck to make his second calculated decision: after he learned of Wilhelm I’s concession to France, he decided to provoke France. 
+To provoke the French public, Bismarck purposefully leaked altered Prussian diplomatic communication to the French diplomat.
 This was called the Ems dispatch, and it was “doctored by Bismarck before public release to make it appear as if a French diplomatic representative had been snubbed.” 
-Prussia made these decisions, calculatedly and purposefully, deliberately provoking France into declaring war on Prussia. [^30]
+Otto von Bismarck made these decisions to provoke France into declaring war on Prussia. [^30]
 The Franco-Prussian War was the culmination of the wars used by Otto von Bismarck to unite the German states into the German Empire by utilizing anti-French sentiment against a common enemy and showing Prussian military prowess against another major European power.
 
 Otto von Bismark used the Franco-Prussian War to unite Germany based on a common French enemy. 
-For many years, France had held supremacy in continental Europe and had many of the smaller German states under its thumb; also, France had recently invaded several of the German states and defeated them militarily decades before under Napoleon. 
+For many years, France had held supremacy in continental Europe and had many of the smaller German states under its thumb; also, France had recently invaded several of the German states and defeated them decades prior under Napoleon. 
 The German states and the French had a long history of rivaling and vying for power in mainland Europe. 
 Thus, it was easy for Bismarck to convince other German states to band together to fight the common French foe. 
 Namely, a “war with France generated two main psychological effects for German unity: a rally-around-the-flag effect against a common external foe, and the increased salience of the new Prussian-sponsored German identity in light of its heightened interstate prestige.” [^31]
