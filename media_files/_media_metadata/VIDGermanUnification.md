@@ -1,5 +1,5 @@
 ---
-name: TenMinutes - German Unification
+name: Video - TenMinutes
 media_type: video
 
 _title: Ten Minute History - German Unification and Empire
