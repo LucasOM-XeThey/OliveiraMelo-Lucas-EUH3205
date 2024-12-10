@@ -45,10 +45,10 @@ At its core, the question of how many semi-independent polities within the HRE e
 Most historians agree that, after the 13th century, answering inquiries on the number of political polities in the HRE with "several hundred" is accurate enough; any additional detail is subject to debate. 
 
 [^1]: Peter Heather, *Empires and Barbarians: The Fall of Rome and the Birth of Europe* (Oxford University Press, 2010): ch. 1.
-[^2]: Whaley, Joachim, *The Holy Roman Empire: A Very Short Introduction* (First edition. Oxford: Oxford University Press, 2018): ch. 1.
+[^2]: Joachim Whaley, *The Holy Roman Empire: A Very Short Introduction* (First edition. Oxford: Oxford University Press, 2018): ch. 1.
 [^3]: Whaley, *The Holy Roman Empire*, ch. 1.
 [^4]: Whaley, *The Holy Roman Empire*, ch. 3-4.
-[^5]: Gagliardo, G., Reich and Nation, *The Holy Roman Empire as Idea and Reality, 1763–1806* (Indiana University Press, 1980): p. 12-13.
+[^5]: John G. Gagliardo, Reich and Nation, *The Holy Roman Empire as Idea and Reality, 1763–1806* (Indiana University Press, 1980): p. 12-13.
 [^6]: Whaley, *The Holy Roman Empire*, Epilogue.
 [^7]: Robin W. Winks and Joan Neuberger, *Europe and the Making of Modernity, 1815-1914* (New York, New York: Oxford University Press, 2005): 16.
 [^8]: Winks and Neuberger, *Europe and the Making of Modernity*, pp. 169-172.
