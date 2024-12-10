@@ -128,6 +128,7 @@ The war underscored the shifting alliances and power dynamics that would continu
 ## Primary Source: Austro-Prussian War
 
 A transcription of the [Treaty of Prague, 1866](http://www.documentArchiv.de/nzjh/ndbd/verfndbd.html).
+
 A Collection by the New York Public Libraries Digital Collections of [Drawings of German and Italian Uniforms from 1866](https://digitalcollections.nypl.org/collections/the-vinkhuijzen-collection-of-military-uniforms?keywords=&sort=keyDate_st+desc&root=9ed534a0-c530-012f-d108-58d385a7bc34#/?tab=navigation).
 
 {% assign media = site.media_metadata | where_exp: "item", "item.name == 'AusArticle.Schleswig-Holstein.Dispute'" %}
