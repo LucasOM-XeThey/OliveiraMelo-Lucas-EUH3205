@@ -2,7 +2,7 @@
 name: VideoVonHabsburgMapped
 media_type: video
 
-_title: The House of Habsburg: Every Year
+_title: The House of Habsburg- Every Year
 description: A short video mapping the possessions of the house of Habsburg - the main imperial dynasty of Austria - from their inception as a landed family through to the loss of their status in Austria-Hungary in WWI. This video was made with research for Ollie's upcoming HRE video.
 creator: Ollie Bye
 _date: 2024
