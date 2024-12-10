@@ -11,20 +11,22 @@ number: 4
 {% assign media = site.media_metadata | where_exp: "item", "item.name == 'Map of the German Confederation'" %}
 {% include media.html pages=media %}
 
-Map-GermanEmpire-States
-
-
+{% assign media = site.media_metadata | where_exp: "item", "item.name == 'Map-GermanEmpire-States'" %}
+{% include media.html pages=media %
 
 ## Images
 
 {% assign media = site.media_metadata | where_exp: "item", "item.name == 'Kaiserproklamation'" %}
 {% include media.html pages=media %}
 
-AustrianGun
+{% assign media = site.media_metadata | where_exp: "item", "item.name == 'AustrianGun'" %}
+{% include media.html pages=media %
 
-Kaiser Wilhelm I
+{% assign media = site.media_metadata | where_exp: "item", "item.name == 'Kaiser Wilhelm I'" %}
+{% include media.html pages=media %
 
-KaiserPortrait
+{% assign media = site.media_metadata | where_exp: "item", "item.name == 'KaiserPortrait'" %}
+{% include media.html pages=media %
 
 # Timeline
 
