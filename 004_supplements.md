@@ -8,25 +8,31 @@ number: 4
 
 ## Maps
 
+[^1]
 {% assign media = site.media_metadata | where_exp: "item", "item.name == 'Map of the German Confederation'" %}
-{% include media.html pages=media %} [^1]
+{% include media.html pages=media %} 
 
+[^2]
 {% assign media = site.media_metadata | where_exp: "item", "item.name == 'Map-GermanEmpire-States'" %}
-{% include media.html pages=media %} [^2]
+{% include media.html pages=media %} 
 
 ## Images
 
+[^3]
 {% assign media = site.media_metadata | where_exp: "item", "item.name == 'Kaiserproklamation'" %}
-{% include media.html pages=media %} [^3]
+{% include media.html pages=media %} 
 
+[^4]
 {% assign media = site.media_metadata | where_exp: "item", "item.name == 'AustrianGun'" %}
-{% include media.html pages=media %} [^4]
+{% include media.html pages=media %} 
 
+[^5]
 {% assign media = site.media_metadata | where_exp: "item", "item.name == 'Kaiser Wilhelm I'" %}
-{% include media.html pages=media %} [^5]
+{% include media.html pages=media %} 
 
+[^6]
 {% assign media = site.media_metadata | where_exp: "item", "item.name == 'KaiserPortrait'" %}
-{% include media.html pages=media %} [^6]
+{% include media.html pages=media %} 
 
 # Timeline
 ## By Lucas OM [Xe/They]
@@ -37,31 +43,39 @@ number: 4
 
 ## Videos
 
+[^7]
 {% assign media = site.media_metadata | where_exp: "item", "item.name == 'Video - von Habsburg Every Year'" %}
-{% include media.html pages=media %} [^7]
+{% include media.html pages=media %} 
 
+[^8]
 {% assign media = site.media_metadata | where_exp: "item", "item.name == 'Video - Brandenburg Every Year'" %}
-{% include media.html pages=media %} [^8]
+{% include media.html pages=media %} 
 
+[^9]
 {% assign media = site.media_metadata | where_exp: "item", "item.name == 'Video - Franco-PrussianWarMapped'" %}
-{% include media.html pages=media %} [^9]
+{% include media.html pages=media %} 
 
+[^10]
 {% assign media = site.media_metadata | where_exp: "item", "item.name == 'Video - TenMinutes'" %}
-{% include media.html pages=media %} [^10]
+{% include media.html pages=media %} 
 
 ## Audio
 
+[^11]
 {% assign media = site.media_metadata | where_exp: "item", "item.name == 'Audio - FranzJosef'" %}
-{% include media.html pages=media %} [^11]
+{% include media.html pages=media %} 
 
+[^12]
 {% assign media = site.media_metadata | where_exp: "item", "item.name == 'Audio - Wilhelm II'" %}
-{% include media.html pages=media %} [^12]
+{% include media.html pages=media %} 
 
 # Supplementary Websites
 
-Wikipedia: [List of States in the HRE](https://en.wikipedia.org/wiki/List_of_states_in_the_Holy_Roman_Empire) [^13]
+[^13]
+Wikipedia: [List of States in the HRE](https://en.wikipedia.org/wiki/List_of_states_in_the_Holy_Roman_Empire) 
 
-House of Habsburg: [The full timeline and family tree of the von Habsburg line](https://habsburg.org/family-history/extended-family-tree/?lang=en) [^14]
+[^14]
+House of Habsburg: [The full timeline and family tree of the von Habsburg line](https://habsburg.org/family-history/extended-family-tree/?lang=en) 
 
 [^1]: Chosen By Chloe P
 [^2]: Chosen By Lucas OM
