@@ -42,9 +42,13 @@ Conrad, Sebastian. *German colonialism: A short history*. Cambridge: Cambridge U
 
 Eyck, Erich. *Bismarck and the German Empire*. New York: W. W. Norton. 1964.
 
+Gagliardo, John G. *Reich and Nation, The Holy Roman Empire as Idea and Reality, 1763–1806*. Indiana University Press, 1980. 
+
 Habsburg.org. “Extended Family Tree.” *Habsburg*.  [https://habsburg.org/family-history/extended-family-tree/?lang=en](https://habsburg.org/family-history/extended-family-tree/?lang=en).
 
 Hall, Todd H. “On provocation: Outrage, International Relations, and the Franco–Prussian War.” *Security Studies 26*, no. 1. 2016. pp. 1-29.
+
+Heather, Peter. *Empires and Barbarians: The Fall of Rome and the Birth of Europe*. Oxford University Press, 2010.
 
 “History of Europe, 1200 AD: The Kingdom of Poland.” Euratlas. [https://www.euratlas.net/history/europe/1200/entity_2160.html](https://www.euratlas.net/history/europe/1200/entity_2160.html).
 
@@ -58,11 +62,15 @@ Schulze, Hagen, and Deborah Lucas Schneider. *Germany: A new history*. Cambridge
 
 Šedivý, Miroslav. “The Austrian Empire, German Nationalism, and the Rhine Crisis of 1840,” *Austrian History Yearbook* 47. January 2016. pp 16.
 
+Sieberer, Ulrich, and Michael Herrmann. “Short-Lived Parliamentarisation in 19th-Century Germany: Parliamentary Government in the Frankfurt Assembly of 1848/1849.” *Parliamentary Affairs 73*, no. 3. 2020. pp. 603–26. [https://doi.org/10.1093/pa/gsz013](https://doi.org/10.1093/pa/gsz013).
+
 Rink, Martin. “The German Wars of Liberation 1807-1815: The Restrained Insurgency.” *Small Wars & Insurgencies 25*, no. 4. July 2014. pp.
 
 Wawro, Geoffrey. *The Franco-Prussian War: The German Conquest of France in 1870-1871*. Cambridge: Cambridge University Press. 2003.
 
 Weinacht, Paul-Ludwig. “The Sovereign German States and the Code Napoleon. What Spoke for Its Adoption in the Rhine Confederation?” *European Journal of Law and Economics 14*, no. 3. November 2002. pp.
+
+Whaley, Joachim. *The Holy Roman Empire: A Very Short Introduction*. First edition. Oxford University Press, 2018.
 
 William, Wolf von Schierbrand, and A. Oskar Klaussmann. *The Kaiser’s speeches, forming a character portrait of emperor William II*. Wentworth Press, 2016.
 
