@@ -9,7 +9,7 @@ creator: Wikimedia Commons
 _date: 2019
 source: Wikimedia Commons
 
-_path: /media_files/images/HRE@Golden-Bull-of-1356.jpg 
+_path: /media_files/images/HRE@Golden-Bull-of-1356.png 
 layout: media_description
 
 ---
