@@ -35,7 +35,8 @@ number: 4
 {% assign media = site.media_metadata | where_exp: "item", "item.name == 'Video - Franco-PrussianWarMapped'" %}
 {% include media.html pages=media %}
 
-
+{% assign media = site.media_metadata | where_exp: "item", "item.name == 'Video - TenMinutes'" %}
+{% include media.html pages=media %}
 
 ## Audio
 
