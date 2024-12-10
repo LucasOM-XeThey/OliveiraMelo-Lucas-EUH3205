@@ -2,7 +2,7 @@
 name: AusArticle.Schleswig-Holstein.Dispute
 media_type: pdf
 
-_title: The Goulburn Herald and Chronicle, Saturday, Nov 25, 1865
+_title: "Extract: The Goulburn Herald and Chronicle, Saturday, Nov 25, 1865"
 description: An Australian Newspaper article about the dispute between Prussia and Austria over Schleswig-Holstein following the Second Schleswig War
 creator: The Goulburn Herald and Chronicle
 _date: Nov. 25, 1865
