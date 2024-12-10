@@ -125,6 +125,10 @@ It also demonstrated Bismarck's strategic brilliance in navigating complex polit
 The implications of the Austro-Prussian War extended beyond German unification, influencing European politics and setting the stage for future conflicts.
 The war underscored the shifting alliances and power dynamics that would continue to shape the continent in the years to come.
 
+## Primary Source: Austro-Prussian War
+
+Transcription of the [Treaty of Prague, 1866](http://www.documentArchiv.de/nzjh/ndbd/verfndbd.html)
+
 # Analysis: Franco-Prussian War
 
 ## By Joseph Coates [He/Him]
