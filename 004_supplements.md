@@ -29,11 +29,21 @@ number: 4
 {% assign media = site.media_metadata | where_exp: "item", "item.name == 'Video - von Habsburg Every Year'" %}
 {% include media.html pages=media %}
 
+{% assign media = site.media_metadata | where_exp: "item", "item.name == 'Video - Brandenburg Every Year'" %}
+{% include media.html pages=media %}
+
+{% assign media = site.media_metadata | where_exp: "item", "item.name == 'Video - TenMinutes'" %}
+{% include media.html pages=media %}
+
 
 
 ## Audio
 
+{% assign media = site.media_metadata | where_exp: "item", "item.name == 'Audio - FranzJosef'" %}
+{% include media.html pages=media %}
 
+{% assign media = site.media_metadata | where_exp: "item", "item.name == 'Audio - Wilhelm II'" %}
+{% include media.html pages=media %}
 
 # Supplementary Websites
 
