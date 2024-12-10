@@ -11,7 +11,11 @@ number: 4
 {% assign media = site.media_metadata | where_exp: "item", "item.name == 'Map of the German Confederation'" %}
 {% include media.html pages=media %}
 
+
+
 ## Images
+
+
 
 # Timeline
 
@@ -24,8 +28,14 @@ number: 4
 {% assign media = site.media_metadata | where_exp: "item", "item.name == 'Video - von Habsburg Every Year'" %}
 {% include media.html pages=media %}
 
+
+
 ## Audio
+
+
 
 # Supplementary Websites
 
 Wikipedia: [List of States in the HRE](https://en.wikipedia.org/wiki/List_of_states_in_the_Holy_Roman_Empire)
+
+House of Habsburg: [The full timeline and family tree of the von Habsburg line](https://habsburg.org/family-history/extended-family-tree/?lang=en)
