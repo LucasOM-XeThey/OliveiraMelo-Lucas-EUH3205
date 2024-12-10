@@ -1,5 +1,4 @@
 ---
-
 name: Video-von Habsburg Mapped
 media_type: video
 
@@ -11,5 +10,4 @@ source: YouTube
 
 _path: https://www.youtube.com/embed/kNZuKJMq08U?si=8UzNQPUelTPuJmLb
 layout: media_description
-
 ---
