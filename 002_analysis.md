@@ -6,7 +6,7 @@ number: 2
 
 # Analysis: Napoleonic Era
 
-## By Chloe Pfeiffer
+## By Chloe Pfeiffer [She/Her]
 
 The Napoleonic Wars and the era that followed were the first conflicts to reorganize the German states and prepare them for unification in the latter half of the nineteenth century. 
 Lasting nearly nine years, the Napoleonic conflicts in the German states rearranged both the states’ legal systems and their physical borders. 
@@ -60,14 +60,14 @@ Thus, the Napoleonic Wars and its consequences were able to successfully set the
 
 # Analysis: Austro-Prussian War
 
-## By Chris Rayon
+## By Chris Rayon [He/Him]
 
 The Austro-Prussian War, also known as the "Brother's War," was a pivotal conflict fought from June 14 to July 22, 1866, between Prussia and Austria, two major powers within the German-speaking world. 
 Though brief, this war profoundly shaped the political landscape of Germany and Europe. 
 It marked a crucial step towards German unification under Prussian leadership while redefining the balance of power in the region.
 
 The roots of the Austro-Prussian War trace back to the intricate and often contentious history of the Holy Roman Empire. [^12]
-Established in 800 by Charlemagne the Great, the Holy Roman Empire was a fragmented collection of German states dominated by the Austrian Habsburg dynasty. [^13] 
+Established in 800 by Charlemagne the Great, the Holy Roman Empire was a fragmented collection of German states dominated by the Austrian Habsburg dynasty states dominated by the Habsburg dynasty of Austria. [^13] 
 By the 16th century, Austria wielded significant influence over the German-speaking world, positioning itself as the leader of the empire. 
 However, the emergence of Prussia as a competing power eventually disrupted this balance. 
 By the 18th century, under the leadership of Frederick William I [^14] and his son Frederick II (Frederick the Great) [^15], Prussia had emerged as one of Europe’s foremost military powers, rivaling Austria, Russia, and France.[^16]
@@ -93,6 +93,7 @@ In 1866, he accused Austria of violating the terms of their agreement by proposi
 In response, Bismarck moved Prussian troops into Holstein, escalating tensions. 
 Austria, in turn, mobilized the forces of the German Confederation against Prussia, igniting the Austro-Prussian War and fracturing the Confederation itself.
 
+Various states, religious factions, cultural ideologies, and families aligned with either Austria or Prussia based on their interests and historical ties.
 Various German states aligned with Austria or Prussia based on historical, religious, and political factors. 
 Predominantly Catholic states like Bavaria, Saxony, and Württemberg supported Austria, while Protestant states, including Mecklenburg and Hanover, sided with Prussia. 
 Italy joined Prussia in the conflict, aiming to annex Austria-held Venetia. 
@@ -123,7 +124,7 @@ The war underscored the shifting alliances and power dynamics that would continu
 
 # Analysis: Franco-Prussian War
 
-## By Joseph Coates 
+## By Joseph Coates [He/Him]
 
 The Franco-Prussian War began on July 19, 1870, and ended on May 10, 1871, resulting in a humiliating loss for France. 
 The political actions of Prussian Chancellor Otto von Bismark primarily instigated the war. 
@@ -180,6 +181,7 @@ insert Joseph Image here
 [^9]: Winks and Neuberger, *Europe and the Making of Modernity, 1815-1914*, 21.
 [^10]: Winks and Neuberger, *Europe and the Making of Modernity, 1815-1914*, 21.
 [^11]: *The Thinkers Club*, 1819, Political Cartoon, 1819, [https://firstamendmentmuseum.org/wp-content/uploads/2021/07/4.-The-Thinkers-Club.jpeg](https://firstamendmentmuseum.org/wp-content/uploads/2021/07/4.-The-Thinkers-Club.jpeg). 
+
 [^12]: “History of Europe, 1200 AD: The Kingdom of Poland.” Euratlas. Accessed November 23, 2024. [https://www.euratlas.net/history/europe/1200/entity_2160.html](https://www.euratlas.net/history/europe/1200/entity_2160.html).
 [^13]: Habsburg.org. “Extended Family Tree.” Habsburg. Accessed November 23, 2024. [https://habsburg.org/family-history/extended-family-tree/?lang=en](https://habsburg.org/family-history/extended-family-tree/?lang=en).
 [^14]: Artware Fine Art. “Portrait of Frederick William I of Prussia, 1688–1740.” Accessed November 23, 2024. [https://www.artwarefineart.com/sites/default/files/styles/wide/public/portraits/Portrait%20of%20Frederick%20William%20I%20of%20Prussia%20%2C%20%201688%20%E2%80%93%201740%20det%202.jpg](https://www.artwarefineart.com/sites/default/files/styles/wide/public/portraits/Portrait%20of%20Frederick%20William%20I%20of%20Prussia%20%2C%20%201688%20%E2%80%93%201740%20det%202.jpg).
@@ -190,14 +192,15 @@ insert Joseph Image here
 [^19]: Art Institute of Chicago. “Portrait of Wilhelm I, King of Prussia, Emperor of Germany (1797–1888).” Accessed November 23, 2024. [https://www.artic.edu/artworks/2136/portrait-of-wilhelm-i-king-of-prussia-emperor-of-germany-1797-1888](https://www.artic.edu/artworks/2136/portrait-of-wilhelm-i-king-of-prussia-emperor-of-germany-1797-1888).
 [^20]: Florida Center for Instructional Technology. “Central Europe and the War of 1866, 1866.” University of South Florida. Accessed November 23, 2024. [https://etc.usf.edu/maps/pages/7600/7608/7608.htm](https://etc.usf.edu/maps/pages/7600/7608/7608.htm).
 [^21]: The Sun. “The Duchies and the Gastein Convention.” Trove. Accessed November 23, 2024. [https://trove.nla.gov.au/newspaper/article/100827479/9704309?form=MG0AV3](https://trove.nla.gov.au/newspaper/article/100827479/9704309?form=MG0AV3). 
-[^22]: WikiTree. “HOHENZOLLERN Genealogy.” WikiTree, accessed November 23, 2024. [https://www.wikitree.com/genealogy/HOHENZOLLERN](https://www.wikitree.com/genealogy/HOHENZOLLERN). 
+[^22]: Clark, Christopher. "Fathers and Sons in the History of the Hohenzollern Dynasty." In *Sons and Heirs: Succession and Political Culture in Nineteenth-Century Europe*, edited by Frank Lorenz Müller and Heidi Mehrkens, 19–37. London: Palgrave Macmillan, 2016.
 [^23]: Kaiser's Bunker. “Waffenrock: Tunics of the Imperial German Army.” Accessed November 23, 2024. [https://www.kaisersbunker.com/gtp/waffenrock.htm](https://www.kaisersbunker.com/gtp/waffenrock.htm).
 [^24]: New York Public Library Digital Collections. “The Vinkhuijzen Collection of Military Uniforms.” Accessed November 23, 2024. [https://digitalcollections.nypl.org/collections/the-vinkhuijzen-collection-of-military-uniforms#/?tab=navigation&roots=1:5b5aedc0-c52f-012f-4d00-58d385a7bc34/10:9ed534a0-c530-012f-d108-58d385a7bc34](https://digitalcollections.nypl.org/collections/the-vinkhuijzen-collection-of-military-uniforms#/?tab=navigation&roots=1:5b5aedc0-c52f-012f-4d00-58d385a7bc34/10:9ed534a0-c530-012f-d108-58d385a7bc34).
-[^25]: Military History Monthly. “Back to the Drawing Board: The Dreyse Needle Gun.” Accessed November 23, 2024. [https://www.military-history.org/back-to-the-drawing-board/back-to-the-drawing-board-the-dreyse-needle-gun.htm](https://www.military-history.org/back-to-the-drawing-board/back-to-the-drawing-board-the-dreyse-needle-gun.htm).
+[^25]: Aizawa, Masataka, Yuki Furukawa, Ryuichi Shinjo, and Chitoshi Mizota. "Provenance Analysis of Lead in Bullets Used in the Dreyse Needle Rifle: Stable Isotopic Constraints Along with an Economic–Historic Analysis." *SSRN Electronic Journal* (2023). [https://ssrn.com/abstract=4564652](https://ssrn.com/abstract=4564652).
 [^26]: National Museum of American History. “Dreyse Needle Gun.” Smithsonian Institution. Accessed November 23, 2024. [https://americanhistory.si.edu/collections/object/nmah_417326](https://americanhistory.si.edu/collections/object/nmah_417326).
 [^27]: Wehrtechnik Museum. “Bleihemdgranaten.” Accessed November 23, 2024. [https://www.wehrtechnikmuseum.de/Exponate/Bleihemdgranaten/bleihemdgranaten.html](https://www.wehrtechnikmuseum.de/Exponate/Bleihemdgranaten/bleihemdgranaten.html).
 [^28]: U.S. Department of State. “Treaty of Prague.” Accessed November 23, 2024. [https://history.state.gov/historicaldocuments/frus1867p1/pg_579](https://history.state.gov/historicaldocuments/frus1867p1/pg_579).
 [^29]: DocumentArchiv.de. “Verfassung des Norddeutschen Bundes vom 16. April 1867.” Accessed November 23, 2024. [http://www.documentarchiv.de/nzjh/ndbd/verfndbd.html](http://www.documentarchiv.de/nzjh/ndbd/verfndbd.html).
+
 [^30]: Todd H. Hall, “On provocation: Outrage, International Relations, and the Franco–Prussian War.” *Security Studies* 26, no. 1 (2016): 1-29. 
 [^31]: Nicholas Sambanis, Stergios Skaperdas, and William C. Wohlforth, “Nation-Building through War,” *American Political Science Review* 109, no. 2 (2015): 291.
 [^32]: William Carr and Harry Hearder. *The Origins of the Wars of German Unification*. First edition. Boca Raton, FL: Routledge, (2014): 206-207.
