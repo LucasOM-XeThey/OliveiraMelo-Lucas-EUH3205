@@ -99,6 +99,9 @@ Predominantly Catholic states like Bavaria, Saxony, and Württemberg supported A
 Italy joined Prussia in the conflict, aiming to annex Austria-held Venetia. 
 Prussia's push for a *"Kleindeutschland"* (a smaller German state excluding Austria) resonated with states that favored a unified Germany under Prussian leadership, while Austria's vision of a *"Grossdeutschland"* (a larger German state including Austria) attracted states that preferred a multi-national empire. [^22]
 
+{% assign media = site.media_metadata | where_exp: "item", "item.name == 'Austro-Prussian.War.Mapped'" %}
+{% include media.html pages=media %}
+
 The war was marked by significant advancements in military technology and tactics, which heavily favored Prussia. [^23] 
 At the war's outset, many of the major German states, such as Bavaria, Saxony, Hanover, and Württemberg, sided with Austria due to their traditional alliances and shared Catholic faith, giving Austria numerical superiority over Prussia. [^24] 
 However, Prussia’s military advantage lay in its technological innovations, strategic leadership, and new combat tactics.
