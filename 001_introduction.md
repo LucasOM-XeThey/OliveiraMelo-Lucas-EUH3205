@@ -38,7 +38,8 @@ Most historians agree that, after the 13th century, answering inquiries on the n
 
 ## Introduction Primary Source
 
-insert Germania Here
+{% assign media = site.media_metadata | where_exp: "item", "item.name == 'Germania'" %}
+{% include media.html pages=media %}
 
 [^1]: 
 [^2]: 
