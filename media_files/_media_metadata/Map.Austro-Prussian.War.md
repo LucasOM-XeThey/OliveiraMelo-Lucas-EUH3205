@@ -8,7 +8,7 @@ description: A Map of the various states of the German Confederation at the outs
 
 According to its creator, the map was based off map data of the IEG-Maps project (Andreas Kunz, B. Johnen and Joachim Robert Moeschl- University of Mainz) - http://www.ieg-maps.uni-mainz.de
 
-The Wikipedia link: https://en.wikipedia.org/wiki/Austro-Prussian_War#Alliances
+The Wikipedia link&#58; https://en.wikipedia.org/wiki/Austro-Prussian_War#Alliances
 creator: User 52 on Wikimedia Commons
 _date: 2006
 source: Wikimedia Commons
