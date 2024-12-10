@@ -37,11 +37,11 @@ After two major wars with the Austria and France, a united German Empire with a 
 
 ### Clarification:
 
-The count of Historian John G. Gagliardo is not one that is necessarily helpful, as it counts the rough estimate of landed **knightly** estates. 
+The count of Historian John G. Gagliardo is not necessarily accurate, as it counts the rough estimate of landed *knightly* estates. 
 Many were, in fact, semi-independent political polities that had their own militaries, governments, foreign policies, etc. 
-The number of such polities was often was well within the hundreds. 
-Many, however, were simply landed knightly estates. 
-At its core, the question of how many semi-independent polities within the HRE existed depends entirely on what one defines as a political polity, and how one defines the cutoff between semi-independent and dependent.
+and the number of such polities was often was well within the hundreds. 
+Many, however, were simply landed knightly estates that do not fit standard definitions of independent polities. 
+At its core, the question of how many semi-independent polities within the HRE existed at any given time depends entirely on what one defines as a political polity, and how one defines the cutoff between semi-independent and dependent.
 Most historians agree that, after the 13th century, answering inquiries on the number of political polities in the HRE with "several hundred" is accurate enough; any additional detail is subject to debate. 
 
 [^1]: 
