@@ -1,6 +1,6 @@
 ---
 
-name: Video-von Habsburg Mapped
+name: VideoVonHabsburgMapped
 media_type: video
 
 _title: The House of Habsburg: Every Year
