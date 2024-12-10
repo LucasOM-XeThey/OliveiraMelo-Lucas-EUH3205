@@ -9,7 +9,7 @@ creator: HistoricFever
 _date: Original&#58; Aug. 6, 1914; Uploaded to Youtube&#58; June 16, 2010
 source: YouTube
 
-_path: https://www.youtube.com/embed/maWaDy9zOko?si=CXwkeJuSlZvh5cdd
+_path: https://www.youtube.com/embed/1l4Bw3A4Xkk?si=wjHCzeWgzqZf_RpZ
 layout: media_description
 
 ---
