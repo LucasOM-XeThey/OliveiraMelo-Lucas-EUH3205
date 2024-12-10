@@ -11,6 +11,8 @@ number: 4
 {% assign media = site.media_metadata | where_exp: "item", "item.name == 'Map of the German Confederation'" %}
 {% include media.html pages=media %}
 
+Map-GermanEmpire-States
+
 
 
 ## Images
