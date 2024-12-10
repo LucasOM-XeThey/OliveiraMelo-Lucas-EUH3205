@@ -21,6 +21,9 @@ number: 4
 
 ## Videos
 
+{% assign media = site.media_metadata | where_exp: "item", "item.name == 'Video - von Habsburg Mapped'" %}
+{% include media.html pages=media %}
+
 ## Audio
 
 # Supplementary Websites
