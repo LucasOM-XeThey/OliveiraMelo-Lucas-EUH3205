@@ -1,6 +1,6 @@
 ---
 
-name: Video - BrandenburgMapped
+name: Video - Brandenburg Every Year
 media_type: video
 
 _title: "The History of Brandenburg: Every Year"
