@@ -9,7 +9,7 @@ creator: Wilhelm Kuntzemüller
 _date: 1884
 source: Wikimedia Commons via the Library of Congress
 
-_path: /media_files/images/Kaiser Wilhelm I.jpg 
+_path: /media_files/images/Kaiser Wilhelm I.JPG
 layout: media_description
 
 ---
