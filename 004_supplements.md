@@ -15,7 +15,8 @@ number: 4
 
 ## Images
 
-
+{% assign media = site.media_metadata | where_exp: "item", "item.name == 'Kaiserproklamation'" %}
+{% include media.html pages=media %}
 
 # Timeline
 
