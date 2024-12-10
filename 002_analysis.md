@@ -175,7 +175,8 @@ In 1871, Germany became unified under the Prussian King Wilhelm I, who was decla
 
 ## Primary Source: Franco-Prussian War
 
-insert Joseph Image here
+{% assign media = site.media_metadata | where_exp: "item", "item.name == 'Surrender.of.Napoleon_III'" %}
+{% include media.html pages=media %}
 
 [^1]: Martin Rink, “The German Wars of Liberation 1807-1815: The Restrained Insurgency,” *Small Wars & Insurgencies* 25, no. 4 (July 2014): 834.
 [^2]: Hans A. Schmitt, “Germany without Prussia: A Closer Look at the Confederation of the Rhine,” *German Studies Review* 6, no. 1 (February 1983): 11-12.
