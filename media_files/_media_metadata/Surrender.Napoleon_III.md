@@ -9,7 +9,7 @@ creator: Henry Schile
 _date: 1871
 source: Library of Congress
 
-_path: /media_files/images/TheThinkersClub.jpeg 
+_path: /media_files/images/Surrender.of.Napoleon_III.jpg
 layout: media_description
 
 ---
